@@ -2,6 +2,8 @@
 
 Built a personalized movie recommendation system that filters based on user input (genre, year, tone) using Natural Language Processing and clustering. Applied sentiment analysis and machine learning to match users with movies that fit their emotional preferences. Developed during the AI4ALL Ignite program, this project demonstrates applied skills in data cleaning, vectorization, clustering, and classification.
 
+View Project: https://colab.research.google.com/drive/11RvBgsKIU1AAcUD7O9c4jBxrXL02O0Zv#scrollTo=KIeG-m2sFIB0
+
 ## Problem Statement <!--- do not change this line -->
 
 With the rise of streaming platforms, users face overwhelming choices and decision fatigue when selecting a movie. Recommender systems often rely on general popularity or ratings, overlooking a user’s mood or tone preference. This project aims to address that gap by integrating sentiment analysis into a content-based filtering system to recommend movies that match a user’s desired emotional tone. This innovation enhances recommendation relevance and personalization.
